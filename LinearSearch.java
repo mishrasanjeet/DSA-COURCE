@@ -1,6 +1,6 @@
 import java.time.Clock;
 import java.util.*;
-public class BinarySearch {
+public class LinearSearch {
 
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
