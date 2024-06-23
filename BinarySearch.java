@@ -13,7 +13,7 @@ public class BinarySearch {
         System.out.println("please enter the data for searching.");
         int data=sc.nextInt();
         int start=0;
-        int end=arr[n-1];
+        int end=n-1;
 
         while(start<=end){
             int mid=(start+end)/2;
